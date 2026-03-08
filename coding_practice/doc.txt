@@ -1,0 +1,3 @@
+The European Space Agency’s Juice mission is currently traveling to Jupiter to study its three largest icy moons: Ganymede, Callisto, and Europa. Launched in 2023, the spacecraft will spend years navigating the Jovian system to investigate whether these moons harbor the conditions necessary for life.
+
+Scientists are particularly interested in the vast subsurface oceans believed to exist beneath their thick, frozen crusts. By using advanced spectral sensors and ice-penetrating radar, Juice will map the moons' surfaces and internal structures. This data helps researchers understand the potential habitability of worlds far beyond our solar system’s traditional goldilocks zone.
